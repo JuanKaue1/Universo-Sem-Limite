@@ -1,36 +1,37 @@
-# Universe Unlimited
+# Universo Sem Limite
 
-Welcome to Universe Unlimited! This is a website dedicated to exploring and learning about the fascinating solar system and the vast universe beyond.
+Bem-vindo ao Universo Sem Limite! Este é um site dedicado a explorar e aprender sobre o fascinante sistema solar e o vasto universo além.
 
-## About the Project
+## Sobre o Projeto
 
-Universe Unlimited is a project developed to provide an educational and engaging experience about the solar system and astronomy in general. It offers a variety of resources, information, and visualizations to learn about planets, stars, galaxies, and more.
+O Universo Sem Limite é um projeto desenvolvido para proporcionar uma experiência educativa e envolvente sobre o sistema solar e a astronomia em geral. Ele oferece uma variedade de recursos, informações e visualizações para aprender sobre os planetas, estrelas, galáxias e muito mais.
 
-## Features
+## Recursos
 
-- **Solar System Exploration:** Discover detailed information about the planets, including interesting facts, scientific data, and stunning images.
-- **Interactive Visualizations:** Explore interactive visualizations of the solar system, planetary orbits, and astronomical events.
-- **Articles and Trivia:** Read educational articles on topics related to astronomy, space trivia, and recent discoveries.
-- **Image Gallery:** Browse through a collection of stunning images from outer space, captured by telescopes and space probes.
-- **Astronomical News:** Stay up-to-date with the latest news and discoveries from the scientific community.
+- **Exploração do Sistema Solar:** Descubra informações detalhadas sobre os planetas, incluindo fatos interessantes, dados científicos e imagens impressionantes.
+- **Visualizações Interativas:** Explore visualizações interativas do sistema solar, órbitas planetárias e eventos astronômicos.
+- **Artigos e Curiosidades:** Leia artigos educativos sobre tópicos relacionados à astronomia, curiosidades do espaço e descobertas recentes.
+- **Galeria de Imagens:** Navegue por uma coleção de imagens deslumbrantes do espaço sideral, capturadas por telescópios e sondas espaciais.
+- **Notícias Astronômicas:** Mantenha-se atualizado com as últimas notícias e descobertas da comunidade científica.
 
-## Technologies Used
+## Tecnologias Utilizadas
 
-- **HTML5:** Used for structuring the content of the website.
-- **CSS3:** Used to style and shape the visual design of the website.
-- **JavaScript:** Used for interactivity and dynamic functionalities.
-- **Bootstrap:** Used for responsiveness and layout components.
+- **HTML5:** Utilizado para a estruturação do conteúdo do site.
+- **CSS3:** Utilizado para estilizar e dar forma ao design visual do site.
+- **JavaScript:** Utilizado para interatividade e funcionalidades dinâmicas.
+- **Bootstrap:** Utilizado para responsividade e componentes de layout.
 
-## How to Use
+## Como Utilizar
 
-1. Clone this repository to your local machine.
-2. Open the `index.html` file in your web browser.
-3. Explore the different features and sections available on the website.
+1. Clone este repositório em sua máquina local.
+2. Abra o arquivo `index.html` em seu navegador da web.
+3. Explore os diferentes recursos e seções disponíveis no site.
 
-## Contributions
+## Contribuições
 
-Contributions are welcome! If you have suggestions for improvements, bug fixes, or would like to add new features to Universe Unlimited, feel free to open an issue or submit a pull request.
+Contribuições são bem-vindas! Se você tem sugestões de melhorias, correções de bugs ou gostaria de adicionar novos recursos ao Universo Sem Limite, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## License
+## Licença
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
+
